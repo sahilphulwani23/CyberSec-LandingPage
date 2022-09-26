@@ -16,9 +16,13 @@
 
 .main-txt{
     /* text-align: left; */
-    padding-top: 13%;
-    margin-left: 6.5%;
+    padding-top: 27%;
+    margin-left: 15.5%;
     color: #a2e3ff;
+}
+
+.clicka{
+    display: none;
 }
 
 .logo{
@@ -51,9 +55,67 @@
         width: 90%;
     }
     .server-button{
-        margin-left: 2rem;
+        margin-left: 1.1rem;
     }
     .container-fluid{
         height: auto;
     }
 }
+
+/* ..........Sign Up Table ........ */
+
+.SignUp{
+    margin-top: 5%;
+    background-color: #16213E;
+    margin-left: 15.5% ;
+    width: 65%;
+    /* padding-left: 18%; */
+    padding: 5% 0 5% 0;
+    text-align: center;
+    border-radius: 2rem;
+    color: white;
+    border: 2px solid #3b445b ;
+    font-family: 'Montserrat', sans-serif;
+    /* z-index: 10; */
+}
+
+.SignUp h4{
+    display: inline;
+    /* font-family: 'Dancing Script', cursive; */
+    font-family: 'IBM Plex Sans Arabic', sans-serif;
+}
+
+.SignUp h2{
+    margin-bottom: 8%;
+    font-family: 'Sora', sans-serif;
+    /* font-family: 'Playfair Display', serif; */
+}
+
+.input{
+    border-radius: 2rem;
+    padding: 2% 4% 2% 4%;
+    margin-bottom: 4%;
+    width: 70%;
+    border: 2px solid rgb(3, 3, 18);
+}
+
+.Formbtn{
+    border-radius: 2rem;
+    background-color: #96d8f5;
+    color: black;   
+    padding: 1.8% 6% 1.8% 6%;
+    font-weight: 300;
+    font-size: large;
+    margin-bottom: 4%;
+    margin-top: 4%;
+}
+
+.Formbtn:hover{
+    background-color: #6e81ae;
+}
+
+.userimg{
+    width: 30%;
+    margin-bottom: 8%;
+}
+
