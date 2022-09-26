@@ -1,7 +1,7 @@
 .container-fluid{
     background-color: rgb(3, 3, 18);
     color: azure;
-    height: 750px;
+    /* height: 750px; */
 }
 
 .main-img{
@@ -19,6 +19,7 @@
     padding-top: 27%;
     margin-left: 15.5%;
     color: #a2e3ff;
+    padding-bottom: 50%;
 }
 
 .clickact{
@@ -64,7 +65,7 @@
 /* ..........Sign Up Table ........ */
 
 .SignUp{
-    margin-top: 5%;
+    margin-top: 8%;
     background-color: #16213E;
     margin-left: 15.5% ;
     width: 65%;
@@ -76,6 +77,7 @@
     border: 2px solid #3b445b ;
     font-family: 'Montserrat', sans-serif;
     /* z-index: 10; */
+    margin-bottom: 10%;
 }
 
 .SignUp h4{
